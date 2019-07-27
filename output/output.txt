@@ -1,0 +1,19 @@
+Which of these did you drink with
+your buffet? (choose one)
+
+Reply with a number (1-7):
+1: water
+
+2: wine
+
+3: beer
+
+4: tea
+
+5: coffee
+
+6: soda
+
+7: nothing
+
+Ge || Send
